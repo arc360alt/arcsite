@@ -1,10 +1,10 @@
 ![Frame 39](https://github.com/arc360alt/arc360.github.io/assets/155182753/407bacc7-f69e-43fb-8af9-777b035166e5)
 ## A simple website hodling all of my current github projects and their discriptions
 # Socials:
-- Youtube: https://www.youtube.com/@arc360
-- Tiktok: https://tiktok.com/@arc360yt
-- Twitter: https://x.com/Arc360_YT (inactive, cant log in)
-- Real Website: https://www.arc360.live
+- Youtube: [https://www.youtube.com/@arc360](https://www.youtube.com/@arc360)
+- Tiktok: [https://tiktok.com/@arc360yt](https://tiktok.com/@arc360yt)
+- Twitter: [https://x.com/Arc360_YT](https://x.com/Arc360_YT) (inactive, cant log in)
+- Real Website: [https://www.arc360.live](https://www.arc360.live)
 # Projects:
 ## ArcCraft
 ![309138097-d99f7043-c2ae-4d3d-bb89-26b0f37d5377](https://github.com/arc360alt/arc360.github.io/assets/155182753/2f3daf02-efdc-4077-ae94-28c309785f4a)
@@ -25,5 +25,7 @@ A Modpack that turns minecraft java into minecraft bedrock [Modrinth Link](https
 ## Nostalgia Modpack
 ![Nostalgia Modpack](https://github.com/arc360alt/arc360.github.io/assets/155182753/45585535-106b-4571-ab8b-0b66f5a5ef52)
 A modpack that replicates the beta days of minecraft, it even readds the farlands! [Modrinth Link STILL UNDER REVIEW](https://modrinth.com/modpack/nostalgia-modpack)
+
+Early Download For Nostalgia Modpack: [https://drive.google.com/file/d/1EPU_UI4ep3ZErVMfigenIkNeMDAEn6h-/view?usp=sharing](https://drive.google.com/file/d/1EPU_UI4ep3ZErVMfigenIkNeMDAEn6h-/view?usp=sharing)
 
 [Actual website](arc360.live) Arc360 Studios 2020-2024
