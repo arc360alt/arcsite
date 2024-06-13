@@ -4,6 +4,7 @@
 - Youtube: https://www.youtube.com/@arc360
 - Tiktok: https://tiktok.com/@arc360yt
 - Twitter: https://x.com/Arc360_YT (inactive, cant log in)
+- Real Website: https://www.arc360.live
 # Projects:
 ## ArcCraft
 ![309138097-d99f7043-c2ae-4d3d-bb89-26b0f37d5377](https://github.com/arc360alt/arc360.github.io/assets/155182753/2f3daf02-efdc-4077-ae94-28c309785f4a)
@@ -20,5 +21,9 @@ A linux distro that is focused on security and a minimal UI [Github Link](https:
 ## BedJava (now on modrinth)
 ![bedjava](https://github.com/arc360alt/arc360.github.io/assets/155182753/c295562a-fb62-42c2-be6d-ec4fe45d19a8)
 A Modpack that turns minecraft java into minecraft bedrock [Modrinth Link](https://modrinth.com/modpack/bedjava)
+
+## Nostalgia Modpack
+![Nostalgia Modpack](https://github.com/arc360alt/arc360.github.io/assets/155182753/45585535-106b-4571-ab8b-0b66f5a5ef52)
+A modpack that replicates the beta days of minecraft, it even readds the farlands! [Modrinth Link STILL UNDER REVIEW](https://modrinth.com/modpack/nostalgia-modpack)
 
 [Actual website](arc360.live) Arc360 Studios 2020-2024
