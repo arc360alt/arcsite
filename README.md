@@ -9,26 +9,22 @@
 ## ArcCraft
 ![309138097-d99f7043-c2ae-4d3d-bb89-26b0f37d5377](https://github.com/arc360alt/arc360.github.io/assets/155182753/2f3daf02-efdc-4077-ae94-28c309785f4a)
 Version of minetest edited to replicate Minecraft [Github Link](https://github.com/arc360alt/ArcCraft)
-<a href="https://github.com/arc360alt/ArcCraft" class="my-button">Github Link</a>
+
 ## ArcBrowser
 ![329082323-4ac8a800-b738-4409-9824-dc175d804e30](https://github.com/arc360alt/arc360.github.io/assets/155182753/5dcf4fa5-4ec8-487b-8a59-716ff54ead51)
 A Chromium Baised Web Browser Designed for security [Github Link](https://github.com/arc360alt/ArcWeb)
-<a href="https://github.com/arc360alt/ArcWeb" class="my-button">Github Link</a>
 
 ## ArcOS (unreleased, wallpaper credits: https://augustfreytag.com/work/big-sur-theme-kit)
 ![tpouhd](https://github.com/arc360alt/arc360.github.io/assets/155182753/2654db2e-c11d-453d-944d-354552dbd06e)
 A linux distro that is focused on security and a minimal UI [Github Link](https://github.com/arc360alt/ArcOS)
-<a href="https://github.com/arc360alt/ArcOS" class="my-button">Github Link</a>
 
 ## BedJava (now on modrinth)
 ![bedjava](https://github.com/arc360alt/arc360.github.io/assets/155182753/c295562a-fb62-42c2-be6d-ec4fe45d19a8)
 A Modpack that turns minecraft java into minecraft bedrock [Modrinth Link](https://modrinth.com/modpack/bedjava)
-<a href="https://modrinth.com/modpack/bedjava" class="my-button">Modrinth Link</a>
 
 ## Nostalgia Modpack
 ![Nostalgia Modpack](https://github.com/arc360alt/arc360.github.io/assets/155182753/45585535-106b-4571-ab8b-0b66f5a5ef52)
-A modpack that replicates the beta days of minecraft, it even readds the farlands! [Modrinth Link](https://modrinth.com/modpack/nostalgia-modpack)
-<a href="https://modrinth.com/modpack/nostalgia-modpack" class="my-button">Modrinth Link</a>
+A modpack that replicates the beta days of minecraft, it even readds the farlands! [Modrinth Link](https://modrinth.com/modpack/nostalgia-modpack)>
 
 [Actual website](arc360.live) Arc360 Studios 2020-2024
 
