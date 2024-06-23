@@ -2,6 +2,11 @@
 
 @import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css";
 
+body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}
+
 * {
 text-align: center;
 }
