@@ -29,6 +29,7 @@ text-align: center;
     margin: 4px 2px; /* Add some margin */
     cursor: pointer; /* Add a pointer cursor on hover */
     border-radius: 12px; /* Rounded corners */
+    background-color: #4CAF50; /* Background color for non-hover state */
 }
 
 .my-button:hover {
