@@ -1,7 +1,7 @@
 # [Home](https://arc360alt.github.io/arcsite/) | [Portfolio](Portfolio.md)
 ![Portfolio](https://github.com/arc360alt/arcsite/assets/155182753/b069132a-95f1-475c-8ecb-626c231f50a0)
 
-### Hey, Im arc, a coder from the illinois area that codes in CSS, HTML, MD, and Python. i also make UnrealEngine 5 games. but my SDK's sadly dont work. please tell me how to get UE5 win sdk's to work.
+### Hey, Im arc, a coder from The Northern Hemisphere that codes in CSS, HTML, MD, and Python. i also make UnrealEngine 5 games. but my SDK's sadly dont work. please tell me how to get UE5 win sdk's to work.
 #
 I also have a GameJolt page where i post most of my Game related things. where here i post all of my Tech projects. You can find that here: [https://gamejolt.com/@Arc360](https://gamejolt.com/@Arc360). i allso have some of my bigger projects over at Arc360.live (find link on main page)
 #
