@@ -10,7 +10,7 @@
 # Projects:
 ## ArcCraft
 ![309138097-d99f7043-c2ae-4d3d-bb89-26b0f37d5377](https://github.com/arc360alt/arc360.github.io/assets/155182753/2f3daf02-efdc-4077-ae94-28c309785f4a)
-Version of minetest edited to replicate Minecraft [Github Link](https://github.com/arc360alt/ArcCraft)
+Version of minetest edited to replicate Minecraft [Github Link](https://github.com/arc360alt/ArcCraft) [Read More (BETA)](project/arccraft.md)
 
 ## ArcBrowser
 ![ArcBrowser (GIT)](https://github.com/arc360alt/arcsite/assets/155182753/a5377ccb-f370-4539-bd9f-6ca53548ff08)
