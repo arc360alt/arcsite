@@ -3,4 +3,4 @@
 # ArcOS, the UNRELEASED linux distro made for security and modern design
 For 64 Bit Computers only. I am not figuring out how to make a x86 version.
 
-# [Github Link](https://github.com/arc360alt/ArcOS)
+# [Github Link](https://github.com/arc360alt/ArcOS) | [Official Website (outdated)](https://www.arc360.live/arcos)
