@@ -31,4 +31,8 @@ A Modpack that turns minecraft java into minecraft bedrock [Modrinth Link](https
 ![Nostalgia Modpack (GIT)](https://github.com/arc360alt/arcsite/assets/155182753/77975541-57cd-469e-a73c-e86e86fa4f8f)
 A modpack that replicates the beta days of minecraft, it even readds the farlands! [Modrinth Link](https://modrinth.com/modpack/nostalgia-modpack) [Read More](project/nostalgia.md)
 
+## Better 16.5
+![b16git](https://github.com/user-attachments/assets/aa2e1399-f4e8-40dd-9992-b7d2d02ef23e)
+Minecraft 1.16.5 But with optimization mods and a bunch of other stuff. [Modrinth Link](https://modrinth.com/modpack/better-16.5) [Read More]
+
 [Actual website](arc360.live) Arc360 Studios 2020-2024
