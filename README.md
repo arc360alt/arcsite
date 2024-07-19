@@ -19,8 +19,8 @@ Version of minetest edited to replicate Minecraft [Github Link](https://github.c
 ![ArcBrowser (GIT)](https://github.com/arc360alt/arcsite/assets/155182753/a5377ccb-f370-4539-bd9f-6ca53548ff08)
 A Chromium Baised Web Browser Designed for security [Github Link](https://github.com/arc360alt/ArcWeb) [Read More](project/arcbrowser.md)
 
-## ArcOS (unreleased, wallpaper credits: https://augustfreytag.com/work/big-sur-theme-kit)
-![tpouhd](https://github.com/arc360alt/arc360.github.io/assets/155182753/2654db2e-c11d-453d-944d-354552dbd06e)
+## ArcOS (wallpaper credits: https://augustfreytag.com/work/big-sur-theme-kit)
+![tpouhd (2)](https://github.com/user-attachments/assets/f41d1a05-3b96-448f-92de-70a95482d0f7)
 A linux distro that is focused on security and a minimal UI [Github Link](https://github.com/arc360alt/ArcOS) [Read More](project/arcos.md)
 
 ## BedJava (now on modrinth)
