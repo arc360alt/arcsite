@@ -37,6 +37,6 @@ Minecraft 1.16.5 But with optimization mods and a bunch of other stuff. [Modrint
 
 ## Beter 20
 ![Better20BANNER](https://github.com/user-attachments/assets/e3484aba-29ce-4785-b36a-e6d312a34e3d)
-A Better version of my Modpack better16.5, that still removes deepslate and does some other cool stuff. [Github Link](https://github.com/arc360alt/Better20/) [Read More](NOTDONEYET)
+A Better version of my Modpack better16.5, that still removes deepslate and does some other cool stuff. [Github Link](https://github.com/arc360alt/Better20/) [Read More](project/b20.md)
 
 [Actual website](arc360.live) Arc360 Studios 2020-2024
