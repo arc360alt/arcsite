@@ -41,15 +41,15 @@ A Better version of my Modpack better16.5, that still removes deepslate and does
 
 ## ArcGPT
 ![image](https://github.com/user-attachments/assets/5dc36040-68af-46e2-9d90-79d7b3a99f3a)
-ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models (not working due to a pm bug) [Github Link](https://github.com/arc360alt/ArcGPT) Read More (not done yet)
+ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models (not working due to a pm bug) [Github Link](https://github.com/arc360alt/ArcGPT)
 
 ## ArcsModPacks
 ![aph](https://github.com/user-attachments/assets/ade62c61-b321-4732-861b-1bce5c02abf9)
-A collection of Modrinth Modpacks that I was to lazy to upload to Modrinth [Github Link](https://github.com/arc360alt/arcsmodpacks) Read More (not done yet)
+A collection of Modrinth Modpacks that I was to lazy to upload to Modrinth [Github Link](https://github.com/arc360alt/arcsmodpacks)
 
 ## ArcProjectHosting
 ![image](https://github.com/user-attachments/assets/882e2842-16fc-45aa-9231-f350b9efb23e)
-Where I host my penguin mod projects, one of the projects was so big that I'm just gonna dump it in releases. [Github Link](https://github.com/arc360alt/arcprojecthosting?tab=readme-ov-file) Read More (not done yet)
+Where I host my penguin mod projects, one of the projects was so big that I'm just gonna dump it in releases. [Github Link](https://github.com/arc360alt/arcprojecthosting?tab=readme-ov-file)
 
 ## Arks Community
 ![image](https://github.com/user-attachments/assets/5414faf8-436b-437d-9992-9dec69cbd93e)
