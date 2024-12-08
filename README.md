@@ -44,7 +44,7 @@ A Better version of my Modpack better16.5, that still removes deepslate and does
 ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models (not working due to a pm bug) [Github Link](https://github.com/arc360alt/ArcGPT)
 
 ## ArcsModPacks
-![aph](https://github.com/user-attachments/assets/ade62c61-b321-4732-861b-1bce5c02abf9)
+![aph](https://github.com/user-attachments/assets/fe026bd0-3541-4738-968e-619a1e34ab33)
 A collection of Modrinth Modpacks that I was to lazy to upload to Modrinth [Github Link](https://github.com/arc360alt/arcsmodpacks)
 
 ## ArcProjectHosting
