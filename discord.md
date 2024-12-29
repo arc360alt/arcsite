@@ -4,6 +4,6 @@
 Join now and help me whith projects, share stuff, talk. and more!
 We got a general chat, tech, media, and commands chat, and you can vote in poles.
 and you can water a tree in the Tree channel. and we got 2 VC's to talk.
-![image](https://github.com/arc360alt/arcsite/assets/155182753/38d80e55-315a-4c5b-a154-2c73ef448f80)
+![image](https://github.com/user-attachments/assets/27b1b39b-bb21-4de4-83a0-802408528d45)
 
 ## [Click here to join!](https://discord.gg/TRMPdA8acF)
