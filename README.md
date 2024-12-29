@@ -58,5 +58,5 @@ Ark's Community, My Discord where my community can come together and talk about 
 ## My Modrinth Page
 ![MR](https://github.com/user-attachments/assets/9be8b915-6b0b-4c9f-91ba-224ad4ea85f7)
 Where I put all of my polished and official modpacks. [Modrinth Link](https://modrinth.com/user/arc360)
-# 
-[Actual website](https://www.arc360.xyz) Ark360 Studios 2020-2024
+
+#### [Actual website](https://www.arc360.xyz) Ark360 Studios 2020-2024
