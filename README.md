@@ -37,15 +37,15 @@ Minecraft 1.16.5 But with optimization mods and a bunch of other stuff. [Modrint
 
 ## Beter 20
 ![Better20BANNER](https://github.com/user-attachments/assets/e3484aba-29ce-4785-b36a-e6d312a34e3d)
-A Better version of my Modpack better16.5, that still removes deepslate and does some other cool stuff. [Github Link](https://github.com/arc360alt/Better20/) [Read More](project/b20.md)
+A Better version of my Modpack better16.5, that still removes deep slate and does some other cool stuff. [Github Link](https://github.com/arc360alt/Better20/) [Read More](project/b20.md)
 
 ## ArcGPT
-![image](https://github.com/user-attachments/assets/5dc36040-68af-46e2-9d90-79d7b3a99f3a)
-ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models (not working due to a pm bug) [Github Link](https://github.com/arc360alt/ArcGPT)
+![gaming](https://github.com/user-attachments/assets/2201f96a-63d5-40af-b668-eeec274308e6)
+ArcBot, An easy-to-use AI bot made in penguin mod using all of the modern and new AI models [Github Link](https://github.com/arc360alt/ArcGPT)
 
 ## ArcsModPacks
 ![aph](https://github.com/user-attachments/assets/fe026bd0-3541-4738-968e-619a1e34ab33)
-A collection of Modrinth Modpacks that I was to lazy to upload to Modrinth [Github Link](https://github.com/arc360alt/arcsmodpacks)
+A collection of Modrinth Modpacks that I was too lazy to upload to Modrinth [Github Link](https://github.com/arc360alt/arcsmodpacks)
 
 ## ArcProjectHosting
 ![image](https://github.com/user-attachments/assets/882e2842-16fc-45aa-9231-f350b9efb23e)
@@ -55,4 +55,8 @@ Where I host my penguin mod projects, one of the projects was so big that I'm ju
 ![image](https://github.com/user-attachments/assets/5414faf8-436b-437d-9992-9dec69cbd93e)
 Ark's Community, My Discord where my community can come together and talk about stuff. [Learn More](https://arc360alt.github.io/arcsite/discord.html)
 
+## My Modrinth Page
+![MR](https://github.com/user-attachments/assets/9be8b915-6b0b-4c9f-91ba-224ad4ea85f7)
+Where I put all of my polished and official modpacks. [Modrinth Link](https://modrinth.com/user/arc360)
+# 
 [Actual website](https://www.arc360.xyz) Ark360 Studios 2020-2024
