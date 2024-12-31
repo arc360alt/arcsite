@@ -61,6 +61,6 @@ Where I put all of my polished and official modpacks. [Modrinth Link](https://mo
 
 ## Minecraft Legacy PSX
 ![MCLPSX](https://github.com/user-attachments/assets/a9945243-5985-425d-8915-275c78892b22)
-Minecraft if it where on the PS1 (WORK IN PROGRESS!!!)
+Minecraft if it where on the PS1 [Github Link](https://github.com/arc360alt/arcsmodpacks/tree/main/MCPSX)
 
 #### [Actual website](https://www.arc360.xyz) Ark360 Studios 2020-2024
