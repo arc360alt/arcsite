@@ -59,4 +59,8 @@ Ark's Community, My Discord where my community can come together and talk about 
 ![MR](https://github.com/user-attachments/assets/9be8b915-6b0b-4c9f-91ba-224ad4ea85f7)
 Where I put all of my polished and official modpacks. [Modrinth Link](https://modrinth.com/user/arc360)
 
+## Minecraft Legacy PSX
+![MCLPSX](https://github.com/user-attachments/assets/a9945243-5985-425d-8915-275c78892b22)
+Minecraft if it where on the PS1 (WORK IN PROGRESS!!!)
+
 #### [Actual website](https://www.arc360.xyz) Ark360 Studios 2020-2024
