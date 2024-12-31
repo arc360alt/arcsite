@@ -8,7 +8,7 @@
 - Youtube: [https://www.youtube.com/@arc360](https://www.youtube.com/@arc360)
 - Tiktok: [https://tiktok.com/@arc360yt](https://tiktok.com/@arc360yt)
 - Twitter: [https://x.com/Arc360_YT](https://x.com/Arc360_YT)
-- Real Website: [https://www.arc360.live](https://www.arc360.live)
+- Real Website: [https://www.arc360.xyz](https://www.arc360.xyz)
 - **DISCORD**: [Discord Page](discord.md)
 # Projects:
 ## ArcCraft
