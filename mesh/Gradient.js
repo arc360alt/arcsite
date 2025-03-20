@@ -8,6 +8,11 @@
 */
 
 
+resizeCanvas() {
+    this.canvas.width = window.screen.width; // Or your specific resolution
+    this.canvas.height = window.screen.height; // Or your specific resolution
+}
+
 //Converting colors to proper format
 function normalizeColor(hexCode) {
   return [(hexCode >> 16 & 255) / 255, (hexCode >> 8 & 255) / 255, (255 & hexCode) / 255]
