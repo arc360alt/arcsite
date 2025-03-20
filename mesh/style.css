@@ -2,6 +2,7 @@
 #gradient-canvas {
   width:110%;
   height:110%;
+  object-fit: cover; /* Add this line */
   --gradient-color-1: #99c1f1; 
   --gradient-color-2: #62a0ea; 
   --gradient-color-3: #3584e4;  
