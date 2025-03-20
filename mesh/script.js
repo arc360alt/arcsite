@@ -1,7 +1,7 @@
-import { Gradient } from './Gradient.js';
+import { Gradient } from './Gradient.js'
 
 // Create your instance
-const gradient = new Gradient();
+const gradient = new Gradient()
 
 // Call `initGradient` with the selector to your canvas
-gradient.initGradient('#gradient-canvas');
+gradient.initGradient('#gradient-canvas')
