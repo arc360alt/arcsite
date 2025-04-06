@@ -154,8 +154,8 @@
 
         <div class="carousel">
             <div class="carousel-container" id="carouselContainer">
-                <div class="carousel-slide" style="background-image: url('aaa.png'); color: white;">os thing</div>
-                <div class="carousel-slide" style="background-image: url('this.png'); color: white;">New Release App</div>
+                <div class="carousel-slide" style="background-image: url('aaa.png'); color: white;">ArkOS Featured</div>
+                <div class="carousel-slide" style="background-image: url('this.png'); color: white;">ArkOS Pro</div>
             </div>
         </div>
 
@@ -167,7 +167,7 @@
     <script>
         // Sample app data
         const appData = [
-            { name: "ArkOS Pro, description: "Pro version of ArkOS", image: "propng.png" }
+            { name: "ArkOS Pro", description: "Pro version of ArkOS", image: "propng.png" }
         ];
 
         // Generate app cards
@@ -222,16 +222,23 @@
         // Automatically advance carousel every 3 seconds
         setInterval(nextSlide, 3000);
 
-        // Dark mode toggle
+        // Dark mode toggle - Fixed for GitHub
         const modeToggle = document.getElementById('modeToggle');
-        modeToggle.addEventListener('click', function() {
-            document.body.classList.toggle('dark-mode');
-            if (document.body.classList.contains('dark-mode')) {
+        if (modeToggle) {
+            modeToggle.addEventListener('click', function() {
+                document.body.classList.toggle('dark-mode');
+                const isDarkMode = document.body.classList.contains('dark-mode');
+                localStorage.setItem('darkMode', isDarkMode);
+                modeToggle.textContent = isDarkMode ? 'Switch to Light Mode' : 'Switch to Dark Mode';
+            });
+            
+            // Check for saved preference
+            const savedDarkMode = localStorage.getItem('darkMode') === 'true';
+            if (savedDarkMode) {
+                document.body.classList.add('dark-mode');
                 modeToggle.textContent = 'Switch to Light Mode';
-            } else {
-                modeToggle.textContent = 'Switch to Dark Mode';
             }
-        });
+        }
     </script>
 </body>
 </html>
