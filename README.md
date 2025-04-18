@@ -10,6 +10,8 @@
 - Twitter: [https://x.com/Arc360_YT](https://x.com/Arc360_YT)
 - Real Website: [https://www.arc360.xyz](https://www.arc360.xyz)
 - **DISCORD**: [Discord Page](discord.md)
+- Cool lil mesh gradiant animation: [Mesh Animation](https://arc360alt.github.io/arcsite/mesh/index.html)
+- Other hub website: [arc360hub.com](https://arc360hub.com)
 # Projects:
 ## ArcCraft
 ![309138097-d99f7043-c2ae-4d3d-bb89-26b0f37d5377](https://github.com/arc360alt/arc360.github.io/assets/155182753/2f3daf02-efdc-4077-ae94-28c309785f4a)
