@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pattern Generators</title>
+  <style>
+    body {
+      font-family: monospace;
+      background-color: #111;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    .pattern {
+      white-space: pre-wrap;
+      background: #222;
+      padding: 1rem;
+      border-radius: 1rem;
+      margin: 2rem auto;
+      max-width: 90ch;
+      font-size: 1rem;
+      line-height: 1.4;
+    }
+    textarea, button {
+      margin: 0.5rem;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    .generator {
+      margin-top: 2rem;
+    }
+    .section {
+      margin-bottom: 3rem;
+    }
+    #toast {
+      visibility: hidden;
+      min-width: 200px;
+      background-color: #444;
+      color: #fff;
+      text-align: center;
+      border-radius: 4px;
+      padding: 0.75rem;
+      position: fixed;
+      z-index: 1;
+      left: 50%;
+      bottom: 2rem;
+      transform: translateX(-50%);
+      font-size: 1rem;
+      opacity: 0;
+      transition: opacity 0.5s ease, visibility 0.5s ease;
+    }
+    #toast.show {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ Pattern Generator ✨</h1>
+
+  <!-- Emoji Pattern Generator -->
+  <div class="section">
+    <h2>😊 Emoji Pattern</h2>
+    <div class="pattern" id="emojiPattern"></div>
+    <button onclick="generatePattern('emoji')">Generate Emoji Pattern</button>
+    <button onclick="copyToClipboard('emojiPattern')">Copy</button>
+  </div>
+
+  <!-- Starry Symbol Pattern Generator -->
+  <div class="section">
+    <h2>⭐ Starry Pattern</h2>
+    <div class="pattern" id="starPattern"></div>
+    <button onclick="generatePattern('star')">Generate Star Pattern</button>
+    <button onclick="copyToClipboard('starPattern')">Copy</button>
+  </div>
+
+  <!-- Star Emoji Pattern Generator -->
+  <div class="section">
+    <h2>🌟 Star Emoji Pattern</h2>
+    <div class="pattern" id="starEmojiPattern"></div>
+    <button onclick="generatePattern('starEmoji')">Generate Star Emoji Pattern</button>
+    <button onclick="copyToClipboard('starEmojiPattern')">Copy</button>
+  </div>
+
+  <!-- Custom Pattern Generator -->
+  <div class="section">
+    <h2>🛠️ Custom Pattern</h2>
+    <textarea id="customSymbols" rows="2" cols="50" placeholder="Enter your custom symbols (e.g. ✦✨💥🌟★)"></textarea><br>
+    <div class="pattern" id="customPattern"></div>
+    <button onclick="generatePattern('custom')">Generate Custom Pattern</button>
+    <button onclick="copyToClipboard('customPattern')">Copy</button>
+  </div>
+
+  <div id="toast">Pattern copied to clipboard!</div>
+
+  <script>
+    const emojiSymbols = ['😀', '😂', '😎', '😍', '🤯', '😭', '🙌', '✨', '🎉', '🔥', '💖', '🌈'];
+    const starSymbols = ['☆', '★', '✦', '✷', '✯', '✧', '✸', '✵', '✶', '•', '°', '·', '*'];
+    const starEmojiSymbols = ['🌟', '⭐', '✨', '💫', '🌠', '🌌', '🌃'];
+
+    function generatePattern(type) {
+      const lines = 20;
+      const width = 60;
+      let pattern = '';
+      let symbols;
+
+      if (type === 'emoji') {
+        symbols = emojiSymbols;
+      } else if (type === 'star') {
+        symbols = starSymbols;
+      } else if (type === 'starEmoji') {
+        symbols = starEmojiSymbols;
+      } else if (type === 'custom') {
+        const input = document.getElementById('customSymbols').value.trim();
+        if (!input) {
+          alert('Please enter some symbols for your custom pattern!');
+          return;
+        }
+        symbols = input.split('').filter(s => s.trim());
+      }
+
+      for (let i = 0; i < lines; i++) {
+        let line = '';
+        for (let j = 0; j < width; j++) {
+          if (Math.random() > 0.85) {
+            line += symbols[Math.floor(Math.random() * symbols.length)];
+          } else {
+            line += '　'; // Full-width space for spacing
+          }
+        }
+        pattern += line + '\n';
+      }
+
+      if (type === 'emoji') {
+        document.getElementById('emojiPattern').innerText = pattern;
+      } else if (type === 'star') {
+        document.getElementById('starPattern').innerText = pattern;
+      } else if (type === 'starEmoji') {
+        document.getElementById('starEmojiPattern').innerText = pattern;
+      } else {
+        document.getElementById('customPattern').innerText = pattern;
+      }
+    }
+
+    function copyToClipboard(elementId) {
+      const text = document.getElementById(elementId).innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        const toast = document.getElementById("toast");
+        toast.classList.add("show");
+        setTimeout(() => toast.classList.remove("show"), 2000);
+      }).catch(err => {
+        alert("Failed to copy: " + err);
+      });
+    }
+  </script>
+</body>
+</html>
